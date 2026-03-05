@@ -19,6 +19,8 @@ To scrape top news headlines from a public news website and store them in a text
 2. Parses HTML using BeautifulSoup
 3. Extracts headline text
 4. Saves headlines into a .txt file
+## Execution
+<img width="1902" height="1141" alt="image" src="https://github.com/user-attachments/assets/acbeb86f-2abb-4792-8083-7339ae10af55" />
 
 ## How to Run
 bash
